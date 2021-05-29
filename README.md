@@ -7,5 +7,10 @@
   <li>O Percentual dos votos nulos em relação ao total de eleitores.</li>
 </ul>
 <h2 align="center"> TESTE CONCLUÍDO </h2>
-
+<p align="justify"> Utilizando o DecimalFormat e o instânciando para utilizar apenas de 2 casas decimais na hora do resultado. Conforme os dados não foram informados utilizado os atributos privados considerando-se dados confidenciais. </p>
+<ul>
+  <li>O Percentual de votos válidos é: 80%</li>
+  <li>O Percentual de votos em branco é: 15%</li>
+  <li>O Percentual de votos nulos é: 5%</li>
+</ul>
 
