@@ -23,6 +23,7 @@
 </ol>
 <h2 align="center"> TESTE CONCLUÍDO </h2>
 <p align="justify"> Utilização do for para ser realizado o swap junto a comparação de valores. </p>
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif">Exemplo do BUBBLE SORT</a>
 <ul>
   <li>O vetor desorganizado é: 5 3 2 4 7 1 0 6 </li>
   <li>O vetor organizado é: 0 1 2 3 4 5 6 7 </li>
