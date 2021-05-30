@@ -35,4 +35,11 @@
 <h2 align="center"> TESTE CONCLUÍDO </h2>
 <p align="justify"> Feita a utilização do FOR para aplicar a regra de controle da fatoração junto ao dado que o usuário colocar para leitura. </p>
 
+<h2 align="center"><b>TESTE IV - SOMA DOS MULTIPLOS DE 3 OU 5</b></h2>
+<p align="justify"> ATV04 - Faça um programa que faz a soma de todos os números que sejam multiplos de 3 ou 5. </p>
+<p align="justify"> A implementação deve ser capaz de receber por parametro um número X se já retornado a soma de todos os números múltiplos de 3 ou 5. </p>
+
+<h2 align="center"> TESTE CONCLUÍDO </h2>
+<p align="justify"> Feita a utilização do FOR para aplicar a regra de controle utilizando-se da variável OPC para aplicar o controle até o valor desejado. </p>
+
 
