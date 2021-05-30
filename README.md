@@ -28,3 +28,11 @@
   <li>O vetor organizado é: 0 1 2 3 4 5 6 7 </li>
 </ul>
 
+<h2 align="center"><b>TESTE III - FATORIAL</b></h2>
+<p align="justify"> ATV03 - Faça um programa que calcule o fatorial de um número qualquer. </p>
+<p align="justify"> Seja "b" um número natural, tal que "b>1", chama-se fatorial de "b" o produto de todos os números naturais consecutivos de "b" até 1. Atentando-se que "0! = 1" porque o produto é vazio(produto de nenhum número é 1). </p>
+
+<h2 align="center"> TESTE CONCLUÍDO </h2>
+<p align="justify"> Feita a utilização do FOR para aplicar a regra de controle da fatoração junto ao dado que o usuário colocar para leitura. </p>
+
+
